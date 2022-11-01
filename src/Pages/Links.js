@@ -19,7 +19,7 @@ const data = [
       id: "books",
     },
     {
-      url: "https://books.zuri.team/python-for-beginners?ref_id=ejovwo-godbless/",
+      url: "https://books.zuri.team/python-for-beginners?ref_id=vanexcel acheampong/",
       text: "Python Books",
       id: "book__python",
     },
