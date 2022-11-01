@@ -65,6 +65,11 @@ header .share {
 }
 
 
+.logo-link{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
 
 

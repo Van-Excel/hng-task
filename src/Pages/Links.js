@@ -1,4 +1,6 @@
 import React from "react";
+import slackicon from "../Images/slackicon.png"
+import github from "../Images/github.png"
 
 
 
@@ -44,6 +46,16 @@ const data = [
               {urls.text}
             </a>
           ))}
+        </div>
+
+        <div className="logo-link">
+           <a href="https://www.slack.com/" alt="slack">
+           <img src={slackicon} alt="slack" />
+        </a>
+        &nbsp; &nbsp; &nbsp;
+           <a href="https://github.com/Van-Excel" alt="slack">
+           <img src={github} alt="github" />
+           </a>
         </div>
        
         </section>
